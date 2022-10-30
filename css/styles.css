@@ -54,7 +54,7 @@ a:hover {
 }
 
 .bgimg-short{
-  background-image: url("../img/aabm_bot.jpg");
+  background-image: url("../img/me_002.JPG");
   background-size: 100%;
   min-height: 25%;
   background-repeat: no-repeat;
@@ -62,17 +62,17 @@ a:hover {
 }
 
 .bgimg-1 {
-  background-image: url("../img/aerialABM_post-disasterreconstruction.jpg");
+  background-image: url("../img/me_000.JPG");
   min-height: 100%;
 }
 
 .bgimg-2 {
-  background-image: url("../img/parallax2.jpg");
+  background-image: url("../img/uav_no_bg.jpg");
   min-height: 400px;
 }
 
 .bgimg-3 {
-  background-image: url("../img/parallax3.jpg");
+  background-image: url("../img/sat.PNG");
   min-height: 400px;
 }
 
